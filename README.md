@@ -1,2 +1,3 @@
 # hello-world
 teaching me how to use this system -- supposedly in super easy terms. we'll see about that...
+I love to learn new stuff when the teacher sticks to each little step. Details matter!
